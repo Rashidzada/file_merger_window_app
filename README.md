@@ -1,7 +1,7 @@
 # PDF Merger Tool
 
 A Windows desktop application built with Flutter to merge PDF files offline.
-Developed as a DIT Final Semester Project by **Amjad Ali**.
+Developed as a DIT Final Semester Project by **Rashid Zada**.
 
 ## Features
 
